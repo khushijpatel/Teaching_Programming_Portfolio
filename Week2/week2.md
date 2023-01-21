@@ -8,6 +8,6 @@ Assignment is done in [Snap!](https://snap.berkeley.edu/index)
 
 > Link to the Snap Code is [here](https://snap.berkeley.edu/project?username=patelkhushi&projectname=WP_Repeats).
 
-> The video can be found [here](https://youtu.be/1d0zR5qgoSM).
+> The video can be found [here](https://youtu.be/UcbyDxil9g0).
 
 ---
