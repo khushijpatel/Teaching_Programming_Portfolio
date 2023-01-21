@@ -11,3 +11,13 @@ Assignment is done in [Snap!](https://snap.berkeley.edu/index)
 > The video can be found [here](https://youtu.be/UcbyDxil9g0).
 
 ---
+
+---
+
+Assignment is done in [Scratch!](https://scratch.mit.edu)
+
+## Teaching Programming Portfolio - Lesson Plan (Animal Parade)
+
+> The video can be found [here](https://youtu.be/vqwu24tkGFA).
+
+---
