@@ -4,7 +4,7 @@
 
 Assignment is done in [Snap!](https://snap.berkeley.edu/index)
 
-## Draw a House
+## Show What You Know: Explain Your Program (Draw a House)
 
 > Link to the Snap Code is [here](https://snap.berkeley.edu/project?username=patelkhushi&projectname=WP_Sequencing).
 
