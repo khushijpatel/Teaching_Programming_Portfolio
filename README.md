@@ -10,3 +10,5 @@ Keep track of work done for EDS 124BR- Teaching Computational Thinking for Every
 [Week 4](https://khushijpatel.github.io/Teaching_Programming_Portfolio/Week4/week4.html)
 
 [Week 5](https://khushijpatel.github.io/Teaching_Programming_Portfolio/Week5/week5.html)
+
+[Week 6](https://khushijpatel.github.io/Teaching_Programming_Portfolio/Week6/week6.html)
