@@ -20,3 +20,5 @@ Website: https://khushijpatel.github.io/Teaching_Programming_Portfolio/
 [Week 8](https://khushijpatel.github.io/Teaching_Programming_Portfolio/Week8/week8.html)
 
 [Week 9](https://khushijpatel.github.io/Teaching_Programming_Portfolio/Week9/week9.html)
+
+[Week 10](https://khushijpatel.github.io/Teaching_Programming_Portfolio/Week10/week10.html)
